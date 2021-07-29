@@ -1,10 +1,10 @@
 <h1 align="center">Heey 👋, meu nome é Nathália Assis</h1>
 <h3 align="center">Desenvolvedora Front-End sempre em busca de novos desafios</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliaassis&show_icons=true&locale=en&layout=compact" alt="nathaliaassis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliaassis&show_icons=true&locale=en&layout=compact" alt="nathaliaassis" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathaliamassis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathaliamassis" height="30" width="40" /></a>
 <a href="https://instagram.com/@assis_nath16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@assis_nath16" height="30" width="40" /></a>
 </p>
