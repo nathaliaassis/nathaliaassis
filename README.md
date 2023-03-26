@@ -1,7 +1,7 @@
 <h1 align="center">Nathália Assis</h1>
 <h3 align="center">Front-End Developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact" />
 
 <p align="left"> 
 Trabalho atualmente na BRQ, tenho +5 anos de experiência em desenvolvimento front-end. 
