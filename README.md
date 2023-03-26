@@ -1,8 +1,7 @@
 <h1 align="center">Nathália Assis</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&theme=dracula&hide_langs_below=1" alt="nathalia github status" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
 Trabalho atualmente na BRQ, tenho +5 anos de experiência em desenvolvimento front-end. 
