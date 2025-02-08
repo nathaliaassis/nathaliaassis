@@ -12,7 +12,7 @@ Trabalho atualmente na BRQ, tenho +5 anos de experiência em desenvolvimento fro
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React JS | Redux | Context API | GIT | Styled-Components | Scrum | Kanban | HTML | CSS | Sass | react-testing-library | Jest | Cypress </strong>
+  💼 Ferramentas: <strong>React JS | React Native | Redux | Context API | GIT | Styled-Components | Scrum | Kanban | HTML | CSS | Sass | react-testing-library | Jest | Cypress </strong>
 </p>
 
 <hr/> 
