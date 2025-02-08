@@ -1,24 +1,24 @@
 <h1 align="center">Nathália Assis</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Frontend and Mobile Developer</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact" />
 
 <p align="left"> 
-Trabalho atualmente na BRQ, tenho +5 anos de experiência em desenvolvimento front-end. 
+Frontend developer with over 7 years of experiencie, specialized in React and React Native.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript | Typescript</strong>
+  🦄 Languages: <strong>Javascript | Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React JS | React Native | Redux | Context API | GIT | Styled-Components | Scrum | Kanban | HTML | CSS | Sass | react-testing-library | Jest | Cypress </strong>
+  💼 Tools: <strong>React JS | React Native | Redux | Context API | GIT | Styled-Components | Scrum | Kanban | HTML | CSS | Sass | react-testing-library | Jest | Cypress </strong>
 </p>
 
 <hr/> 
 
 <p align="left">
-  💌 Entre em contato comigo: 
+  💌 Let's get in touch: 
 </p>
 
 <p align="center">
