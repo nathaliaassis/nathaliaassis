@@ -1,4 +1,4 @@
-<h1 align="center">Nathália Assis</h1>
+<h1 align="center">Nathália de Deus</h1>
 <h3 align="center">Frontend and Mobile Developer</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact" />
