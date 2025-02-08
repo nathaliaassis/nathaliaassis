@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaassis&layout=compact" />
 
 <p align="left"> 
-Frontend developer with over 7 years of experiencie, specialized in React and React Native.
+Frontend developer with 7+ years of experience, specializing in React and React Native.
 </p>
 
 <p align="left">
